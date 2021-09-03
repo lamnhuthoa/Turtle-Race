@@ -1,0 +1,1 @@
+#High Order Function is a function that takes other function as its parameter
